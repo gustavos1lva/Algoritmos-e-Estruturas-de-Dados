@@ -9,7 +9,7 @@
 /**                                                                 **/
 /*********************************************************************/
 
-#include "filaDePrioridade2.h"
+#include "filaDePrioridade(2).h"
 
 PFILA criarFila(int max){
   PFILA res = (PFILA) malloc(sizeof(FILADEPRIORIDADE));
